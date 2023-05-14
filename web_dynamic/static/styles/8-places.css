@@ -99,3 +99,7 @@
 .user {
   margin-bottom: 1.5%;
 }
+
+.amenity input {
+  margin-left: 10px;
+}
